@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+build/
+dist/
+artifacts/
+*.dcm
+*.mri3d
+*.mri3d-data/
+DICOMIMAGES/
+node_modules/
